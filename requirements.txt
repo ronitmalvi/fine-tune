@@ -1,0 +1,13 @@
+transformers
+torch
+accelerate
+bitsandbytes
+jiwer
+datasets
+peft
+loralib
+tqdm
+pytesseract
+opencv-python
+tesseract-ocr
+tesseract-ocr-eng
